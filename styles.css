@@ -1,0 +1,29 @@
+/*
+.fixed-bottom {
+  background-color: green;
+}
+*/
+
+/*
+.site-footer {
+  background-color: black;
+  color: white;
+  position: relative;
+  box-sizing: border-box;
+  height: 91px;
+  text-align: center;
+  vertical-align:middle;
+  bottom: 0;
+}
+*/
+
+.site-footer {
+  color: #696969;
+  font-style: italic;
+  font-size: 85%;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
